@@ -1,0 +1,8 @@
+{
+  "name": "VBA Automation Service Page",
+  "description": "Professional landing page for VBA automation services featuring cost assessment, simulated savings, tracking dashboard, payment portal, and consultation booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
